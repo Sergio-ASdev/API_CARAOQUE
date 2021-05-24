@@ -1,23 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "E:\\PROYECTOS\\CSHARP\\source\\repos\\servicedepartamentosrdsmysql\\servicedepartamentosrdsmysql-main\\ServiceDepartamentosRDSMySql\\ServiceDepartamentosRDSMySql.csproj": {}
+    "C:\\FULLSTACK\\API_CARAOQUE\\ServiceDepartamentosRDSMySql\\ServiceDepartamentosRDSMySql.csproj": {}
   },
   "projects": {
-    "E:\\PROYECTOS\\CSHARP\\source\\repos\\servicedepartamentosrdsmysql\\servicedepartamentosrdsmysql-main\\ServiceDepartamentosRDSMySql\\ServiceDepartamentosRDSMySql.csproj": {
+    "C:\\FULLSTACK\\API_CARAOQUE\\ServiceDepartamentosRDSMySql\\ServiceDepartamentosRDSMySql.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\PROYECTOS\\CSHARP\\source\\repos\\servicedepartamentosrdsmysql\\servicedepartamentosrdsmysql-main\\ServiceDepartamentosRDSMySql\\ServiceDepartamentosRDSMySql.csproj",
+        "projectUniqueName": "C:\\FULLSTACK\\API_CARAOQUE\\ServiceDepartamentosRDSMySql\\ServiceDepartamentosRDSMySql.csproj",
         "projectName": "ServiceDepartamentosRDSMySql",
-        "projectPath": "E:\\PROYECTOS\\CSHARP\\source\\repos\\servicedepartamentosrdsmysql\\servicedepartamentosrdsmysql-main\\ServiceDepartamentosRDSMySql\\ServiceDepartamentosRDSMySql.csproj",
-        "packagesPath": "C:\\Users\\SergioArribasSanchez\\.nuget\\packages\\",
-        "outputPath": "E:\\PROYECTOS\\CSHARP\\source\\repos\\servicedepartamentosrdsmysql\\servicedepartamentosrdsmysql-main\\ServiceDepartamentosRDSMySql\\obj\\",
+        "projectPath": "C:\\FULLSTACK\\API_CARAOQUE\\ServiceDepartamentosRDSMySql\\ServiceDepartamentosRDSMySql.csproj",
+        "packagesPath": "C:\\Users\\AlumnoMCSD\\.nuget\\packages\\",
+        "outputPath": "C:\\FULLSTACK\\API_CARAOQUE\\ServiceDepartamentosRDSMySql\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\SergioArribasSanchez\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\AlumnoMCSD\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -77,12 +78,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[3.1.13, 3.1.13]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -91,7 +86,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.104\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }
